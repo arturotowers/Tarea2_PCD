@@ -6,4 +6,4 @@ Este repositorio contiene la tarea 2 de PCD.
 - **feature-1**: Contiene el notebook de Jupyter con la tarea 2.
 
 ### Propósito:
-Este repositorio fue creado para realizar la tarea 2 de PCD, que incluye la creación y manejo de ramas en Git, así como el trabajo con notebooks de Jupyter.
+Este repositorio fue creado para realizar la tarea 2 de PCD, que incluye la creación y manejo de branches en Git, así como el trabajo con notebooks de Jupyter.
